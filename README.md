@@ -13,5 +13,5 @@ I learnt how UTMSmart is transforming campus services through integrated informa
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/38e7c690-05a9-4272-8bdf-e5ce9a328b9f" />
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/75f77b39-567b-47e7-9256-6028be5c2233" />
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/b6123bdc-e51d-40ba-9c51-55dd4c645971" />
-![Uploading image.png…]()
+
 
